@@ -22,6 +22,7 @@ local state = {
 ---Aliases to be displayed in the prompt title.
 local aliases = {
   brave = "Brave",
+  buku = "Buku",
   google_chrome = "Google Chrome",
   safari = "Safari",
   firefox = "Firefox",
